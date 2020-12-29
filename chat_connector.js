@@ -5,6 +5,8 @@
 // @description  Connects the Roll20 chat to a WebSocket
 // @author       Philip Griesbacher
 // @match        https://app.roll20.net/*
+// @updateURL    https://raw.githubusercontent.com/Griesbacher/roll20_chat_bot/master/chat_connector.js
+// @downloadURL  https://raw.githubusercontent.com/Griesbacher/roll20_chat_bot/master/chat_connector.js
 // ==/UserScript==
 (function() {
     'use strict';
