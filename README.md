@@ -1,7 +1,4 @@
 # Roll20 Chatbot
-
----
-
 This project allows you to write a Python chatbot for [Roll20](https://roll20.net/).
 
 ## Setup
