@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Roll20 Chat Connector
-// @namespace    https://app.roll20.net/
+// @namespace    https://github.com/Griesbacher/roll20_chatbot
 // @version      0.1
 // @description  Connects the Roll20 chat to a WebSocket
 // @author       Philip Griesbacher
